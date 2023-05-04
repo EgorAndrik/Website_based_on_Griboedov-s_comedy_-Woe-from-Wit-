@@ -1,0 +1,28 @@
+.name {
+    margin: auto;
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    display: block;
+}
+
+.name h1{ 
+    text-align: center;
+    margin: 20px;
+    font-weight: 900;
+}
+
+.text {
+    margin: auto;
+    text-align: justify;
+    width: 950px;
+    height: 500px;
+}
+
+.text h4 {
+    margin: 30px;
+}
+.text h3 {
+    font-weight: 800;
+    margin: 30px;
+}

@@ -1,0 +1,41 @@
+.reader1 {
+    margin: auto;
+    height: 300px;
+    width: 600px;
+}
+
+.reader1 h1{
+    text-align: center;
+    margin: auto;
+}
+
+.reader1 h3{
+    text-align: center;
+    margin: auto;
+}
+
+.reader1 audio {
+    height: 100px;
+    width: 600px;
+}
+
+.reader2 {
+    margin: auto;
+    height: 300px;
+    width: 600px;
+}
+
+.reader2 h1{
+    text-align: center;
+    margin: auto;
+}
+
+.reader2 h3{
+    text-align: center;
+    margin: auto;
+}
+
+.reader2 audio{
+    height: 100px;
+    width: 600px;
+}

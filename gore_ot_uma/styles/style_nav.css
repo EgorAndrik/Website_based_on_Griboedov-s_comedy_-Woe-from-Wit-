@@ -1,0 +1,72 @@
+nav {
+  width: 960px;
+  margin: 0 auto;
+}
+
+nav:before{
+  content:'';
+  display: block;
+  height: 90px;
+  width: 100%;
+  background: #9c0000;
+  position: absolute;
+  left: 0;
+  z-index: -1;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  height: 90px;
+}
+
+ul li{
+  float: left;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  height: 90px;
+  padding: 0px 44px;
+  text-transform: uppercase;
+  line-height: 90px;
+
+}
+
+ul li a:hover {
+  background: #cf004c;
+  color: #fff;
+}
+
+#logotipe img{
+  height: 90px;
+  width: 90px;
+}
+
+#logotipe {
+  padding: 0px 40px;
+}
+
+#minu{
+  color: white;
+  padding: 0px 10px;
+}
+#minu ul{
+  color: white;
+  background: #9c0000;
+  height: 750px;
+}
+#minu a{
+  color: white;
+}
+#minu ul li ::before{
+  background: #9c0000;
+}
+#minu ul li :hover {
+  width: 100%;
+  background: #cf004c;
+  color: #fff;
+}

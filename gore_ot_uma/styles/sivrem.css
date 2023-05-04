@@ -1,0 +1,262 @@
+.name_page {
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    display: block;
+}
+
+.name_page h1{
+    text-align: center;
+    margin: 20px;
+    font-weight: 900;
+}
+
+.textik {
+    margin: 50px auto;
+    text-align: justify;
+    width: 1300px;
+    height: 600px;
+    outline: 2px solid #000;
+    border-radius: 30px;
+}
+
+.textik img {
+    height: 370px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 115px 30px;
+}
+
+.sub_textik{
+    height: 500px;
+    width: 1000px;
+    margin: -520px 0px 0px 355px;
+}
+
+.sub_textik h4{
+    height: 30px;
+    width: 200px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub_textik h5{
+    height: 410px;
+    width: 901px;
+    font-size: 16px;
+}
+
+.polevoi {
+    margin: 50px auto;
+    text-align: justify;
+    width: 1300px;
+    height: 600px;
+    outline: 2px solid #000;
+    border-radius: 30px;
+}
+
+.polevoi img {
+    height: 370px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 115px 30px;
+}
+
+.sub_polevoi{
+    height: 500px;
+    width: 1000px;
+    margin: -520px 0px 0px 355px;
+}
+
+.sub_polevoi h4{
+    height: 30px;
+    width: 200px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub_polevoi h5{
+    height: 410px;
+    width: 901px;
+    font-size: 16px;
+}
+
+.no_name {
+    margin: 50px auto;
+    text-align: justify;
+    width: 1300px;
+    height: 600px;
+    outline: 2px solid #000;
+    border-radius: 30px;
+}
+
+.no_name img {
+    height: 370px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 115px 30px;
+}
+
+.sub_no_name {
+    height: 500px;
+    width: 1000px;
+    margin: -520px 0px 0px 355px;
+}
+
+.sub_no_name h4{
+    height: 30px;
+    width: 200px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub_no_name h5{
+    height: 410px;
+    width: 901px;
+    font-size: 16px;
+}
+
+
+.somov {
+    margin: 50px auto;
+    text-align: justify;
+    width: 1300px;
+    height: 600px;
+    outline: 2px solid #000;
+    border-radius: 30px;
+}
+
+.somov img {
+    height: 370px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 115px 30px;
+}
+
+.sub_somov {
+    height: 500px;
+    width: 1000px;
+    margin: -520px 0px 0px 355px;
+}
+
+.sub_somov h4{
+    height: 30px;
+    width: 200px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub_somov h5{
+    height: 410px;
+    width: 901px;
+    font-size: 16px;
+}
+
+
+.pisarev {
+    margin: 50px auto;
+    text-align: justify;
+    width: 1300px;
+    height: 600px;
+    outline: 2px solid #000;
+    border-radius: 30px;
+}
+
+.pisarev img {
+    height: 370px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 115px 30px;
+}
+
+.sub_pisarev {
+    height: 500px;
+    width: 1000px;
+    margin: -520px 0px 0px 355px;
+}
+
+.sub_pisarev h4{
+    height: 30px;
+    width: 200px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub_pisarev h5{
+    height: 410px;
+    width: 901px;
+    font-size: 16px;
+}
+
+
+.odoevski {
+    margin: 50px auto;
+    text-align: justify;
+    width: 1300px;
+    height: 600px;
+    outline: 2px solid #000;
+    border-radius: 30px;
+}
+
+.odoevski img {
+    height: 370px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 115px 30px;
+}
+
+.sub_odoevski {
+    height: 500px;
+    width: 1000px;
+    margin: -520px 0px 0px 355px;
+}
+
+.sub_odoevski h4{
+    height: 30px;
+    width: 210px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub_odoevski h5{
+    height: 410px;
+    width: 901px;
+    font-size: 16px;
+}
+
+
+.katenin {
+    margin: 50px auto;
+    text-align: justify;
+    width: 1300px;
+    height: 600px;
+    outline: 2px solid #000;
+    border-radius: 30px;
+}
+
+.katenin img {
+    height: 370px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 115px 30px;
+}
+
+.sub_katenin {
+    height: 500px;
+    width: 1000px;
+    margin: -520px 0px 0px 355px;
+}
+
+.sub_katenin h4{
+    height: 30px;
+    width: 210px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub_katenin h5{
+    height: 410px;
+    width: 901px;
+    font-size: 16px;
+}

@@ -1,0 +1,66 @@
+/* name_page */
+.name_page {
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    display: block;
+}
+.name_page h1{
+    text-align: center;
+    margin: 20px;
+    font-weight: 900;
+}
+
+
+/* text */
+.text {
+    margin: auto;
+    width: 500px;
+    height: 250px;
+    text-align: left;
+}
+.text h5 {
+    margin: auto;
+}
+.text h3 {
+    font-weight: 800;
+    margin: 30px 0px;
+}
+
+
+.ussr {
+    float: left;
+    position: relative;
+    right: 3%;
+    float:right;
+    width: 500px;
+    height: 500px;
+    text-align: left;
+}
+.ussr h5 {
+    margin: auto;
+}
+.ussr h3 {
+    font-weight: 800;
+    margin: 30px 0px;
+}
+
+
+.russian_fediration {
+    float: left;
+    position: relative;
+    left: 5%;
+    width: 600px;
+    height: 500px;
+    text-align: left;
+}
+
+.russian_fediration h5 {
+    margin: auto;
+}
+
+.russian_fediration h3 {
+    font-weight: 800;
+    margin: 30px 0px;
+}

@@ -1,0 +1,206 @@
+.Griboedov {
+    display: block;
+    width: 900px;
+    height: 600px;
+    background: #ffffff;
+    border-radius: 90px;
+    padding: 15px;
+    margin: 200px 210px;
+    margin: auto;
+}
+
+.Griboedov_photo {
+    display: block;
+    width: 350px;
+    height: 350px;
+    margin: auto;
+}
+
+.Griboedov h1 {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+
+/* name_page */
+.name_page {
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    display: block;
+}
+.name_page h1{
+    text-align: center;
+    margin: 20px;
+    font-weight: 900;
+}
+
+
+/* text */
+#text {
+    margin: auto;
+    text-align: justify;
+    width: 1100px;
+    height: 770px;
+}
+
+#text h3 {
+    font-weight: 800;
+    margin: 30px;
+}
+
+
+.sosdateli {
+    margin: auto;
+    width: 1500px;
+    height: 1500px;
+}
+
+.sosdateli h1 {
+    margin: 50px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.sosdateli h2 {
+    margin: auto;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrsb_diana {
+    margin: 50px 50px;
+    width: 250px;
+    height: 450px;
+    border-radius: 25px;
+    outline: 2px solid #000;
+}
+
+.rasrsb_diana h2 {
+    margin: auto;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrsb_diana img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+.rasrsb_olia {
+    margin: -500px 450px;
+    width: 250px;
+    height: 450px;
+    border-radius: 25px;
+    outline: 2px solid #000;
+}
+
+.rasrsb_olia h2 {
+    margin: auto;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrsb_olia img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+
+.rasrsb_Veronika {
+    margin: 50px 850px;
+    width: 250px;
+    height: 450px;
+    border-radius: 25px;
+    outline: 2px solid #000;
+}
+
+.rasrsb_Veronika h2 {
+    margin: auto;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrsb_Veronika img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+
+.rasrsb_Milana {
+    margin: -500px 1250px;
+    width: 250px;
+    height: 450px;
+    border-radius: 25px;
+    outline: 2px solid #000;
+}
+
+.rasrsb_Milana h2 {
+    margin: auto;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrsb_Milana img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+#v {
+    margin: 595px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrb_Sasha {
+    margin: -500px 450px;
+    width: 250px;
+    height: 450px;
+    border-radius: 25px;
+    outline: 2px solid #000;
+}
+
+.rasrb_Sasha h2 {
+    margin: auto;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrb_Sasha img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+
+.rasrb_Egor {
+    margin: 50px 850px;
+    width: 250px;
+    height: 450px;
+    border-radius: 25px;
+    outline: 2px solid #000;
+}
+
+.rasrb_Egor h2 {
+    margin: auto;
+    font-weight: 800;
+    text-align: center;
+}
+
+.rasrb_Egor img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}

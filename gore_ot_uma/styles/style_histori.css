@@ -1,0 +1,25 @@
+.name_page {
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    display: block;
+}
+
+.name_page h1{
+    text-align: center;
+    margin: 20px;
+    font-weight: 900;
+}
+
+.textik {
+    margin: auto;
+    text-align: justify;
+    width: 950px;
+    height: 500px;
+}
+
+.textik h4{
+    margin: 30px;
+}
+
